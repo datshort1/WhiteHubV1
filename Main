@@ -17,5 +17,5 @@ Bladeball:CreateButton("REDzHUB", function()loadstring(game:HttpGet("https://raw
 end)
 
 Bladeball:CreateToggle("AutoDetectV1",
-function()loadstring(game:HttpGet("https://pastebin.com/raw/pjTTegEe"))()
+function()loadstring(game:HttpGet("https://raw.githubusercontent.com/datshort1/WhiteHubV1/main/AutoDetectV1"))()
 end)
